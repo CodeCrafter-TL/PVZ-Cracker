@@ -46,7 +46,7 @@
 
 ### 📦 下载
 
-您可以前往 (Releases)[https://github.com/codecrafter-tl/pvz-cracker/releases] 页面来下载 PVZ-Cracker 的发行版。
+您可以前往 [Releases](https://github.com/codecrafter-tl/pvz-cracker/releases) 页面来下载 PVZ-Cracker 的发行版。
 
 或者使用以下的代码来下载源代码：
 ```bash
