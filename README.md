@@ -7,7 +7,7 @@
 <p align="center">
 <code>PVZ-Cracker</code> 是一个基于 <code>Python 3</code> 的植物大战僵尸数据修改器。
 <br/>
-<strong>您现在浏览的是测试版本！<a href="https://github.com/codecrafter-tl/PVZ-Cracker/tree/old">点击此处</a>跳转至稳定版本！</strong>
+<strong>目前仍在测试。</strong>
 </p>
 
 <p align="center">
